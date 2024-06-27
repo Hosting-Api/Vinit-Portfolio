@@ -114,6 +114,7 @@ const Contact = () => {
 
                 {/* <form id="contactForm" onSubmit={submitHandler}> */}
                 <form  onSubmit={submitHandler}>
+                  <h1 className="text-2xl text-center text-default-text font-bold">Fill the Form below</h1>
                   <div className="mb-6">
                     <div className="mx-0 mb-1 sm:mb-4">
                       <div className="mx-0 mb-1 sm:mb-4">
