@@ -6,8 +6,8 @@ import Image from "next/image";
 const certifications = [
   {
     id: 1,
-    title: "Summer Internship Certificate",
-    description: "This is a description for Certification Four.",
+    title: "Internship Certificate",
+    description: "This is a description for Certification.",
     imageUrl: "/certs/img23472.jpg",
     largeImageUrl: "/certs/img23472.jpg",
     certificationUrl: "https://example.com/certification4"
@@ -15,7 +15,7 @@ const certifications = [
   {
     id: 2,
     title: "CISCO Certification",
-    description: "This is a description for Certification One.",
+    description: "This is a description for Certification.",
     imageUrl: "/certs/img23707.png",
     largeImageUrl: "/certs/img23707.png",
     certificationUrl: ""
@@ -24,7 +24,7 @@ const certifications = [
   {
     id: 3,
     title: "Appreciaation Letter",
-    description: "This is a description for Certification Three.",
+    description: "This is a description for Certification.",
     imageUrl: "/certs/img23652.png",
     largeImageUrl: "/certs/img23652.png",
     certificationUrl: "https://example.com/certification3"
@@ -32,7 +32,7 @@ const certifications = [
   {
     id: 4,
     title: "Microsoft Certification",
-    description: "This is a description for Certification Two.",
+    description: "This is a description for Certification.",
     imageUrl: "/certs/img23912.png",
     largeImageUrl: "/certs/img23912.png",
     certificationUrl: "https://example.com/certification2"
