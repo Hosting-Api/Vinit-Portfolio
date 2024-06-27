@@ -10,7 +10,7 @@ const About = () => {
       <div className=" w-full   lg:mt-0 lg:col-span-5 lg:flex ">
           {/* <img className="w-80 h-80 mx-auto rounded-full " src="https://flowbite.com/docs/images/people/profile-picture-5.jpg" alt="Rounded avatar"></img>           */}
           {/* <img className="w-80 h-80 mx-auto rounded-full" src={'https://cdn-icons-png.flaticon.com/512/21/21104.png'} alt="Rounded avatar"  />         */}
-          <Image src="/user.JPG" className="w-80 h-80 mx-auto rounded-full" height={320} width={320} alt="img433"/>
+          <Image src="/user.jpg" className="w-80 h-80 mx-auto rounded-full" height={320} width={320} alt="img433"/>
           {/* <Image src="/Home.png" className="w-80 h-80 mx-auto" height={320} width={320} alt="img433"/> */}
   
           </div>
