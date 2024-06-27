@@ -60,7 +60,7 @@ const Contact = () => {
                   className="text-default-text text-sm ml-3"
                 >
                   <small className="block">Mail Me On</small>
-                  <strong>vinit@gmail.in</strong>
+                  <strong>vinitpatel2019@gmail.com</strong>
                 </Link>
               </li>
             </ul>
@@ -69,7 +69,7 @@ const Contact = () => {
             <h2 className="text-lg font-extrabold">Socials</h2>
             <ul className="flex mt-3 space-x-4">
               <li className="bg-default-text h-10 w-10 rounded-full flex items-center justify-center shrink-0">
-                <Link href="">
+                <Link href="https://github.com/Vinit-070">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     width="20px"
