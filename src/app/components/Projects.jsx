@@ -9,7 +9,7 @@ const projects = [
     title: "Bug Management Portal",
     description: "It is an Internal Application for an Organization where their R&D Team can work on Bugs in their Product.",
     imageUrl: "/project/bug-portal.png",
-    projectUrl: "#"
+    projectUrl: "https://bug-portal.vercel.app/"
   },
   {
     id: 2,
