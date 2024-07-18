@@ -28,9 +28,9 @@ const experiences = [
     id: 3,
     date: "June 2023",
     title: "Remote",
-    subtitle: "Freelance Ethical Hacker",
+    subtitle: "Freelance Penetration Tester",
     company: "Web Bazaar (Banglore)",
-    description: "Worked as an ethical hacker and secured St. Martha's College Of Nursing Website, (A product of Web Bazaar) using my skills."
+    description: "Worked as a Penetration Tester and secured St. Martha's College Of Nursing Website, (A product of Web Bazaar) using my skills."
   },
   // Add more experience objects here as needed
 ];
