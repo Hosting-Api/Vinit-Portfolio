@@ -28,7 +28,7 @@ const experiences = [
     id: 3,
     date: "June 2023",
     title: "Remote",
-    subtitle: "Freelance Penetration Tester",
+    subtitle: "Freelance Pen-Tester",
     company: "Web Bazaar (Banglore)",
     description: "Worked as a Penetration Tester and secured St. Martha's College Of Nursing Website, (A product of Web Bazaar) using my skills."
   },
