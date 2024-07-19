@@ -20,10 +20,10 @@ const projects = [
   },
   {
     id: 3,
-    title: "Project Three",
-    description: "This is a description for Project Three.",
-    imageUrl: "/Home.png",
-    projectUrl: "#"
+    title: "Marketing Software",
+    description: "A Desktop Application developed using Python GUI  with Mass Mailer and AI based content writer.",
+    imageUrl: "/loader.png",
+    projectUrl: "https://github.com/Vinit-070/Marketing-Software"
   },
   {
     id: 4,
@@ -32,6 +32,7 @@ const projects = [
     imageUrl: "/Contact.png",
     projectUrl: "#"
   },
+ 
   // Add more projects as needed
 ];
 
