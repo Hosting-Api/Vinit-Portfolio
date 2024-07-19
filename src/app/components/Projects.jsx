@@ -22,14 +22,14 @@ const projects = [
     id: 3,
     title: "Marketing Software",
     description: "A Desktop Application developed using Python GUI  with Mass Mailer and AI based content writer.",
-    imageUrl: "/loader.png",
+    imageUrl: "/project/loader.png",
     projectUrl: "https://github.com/Vinit-070/Marketing-Software"
   },
   {
     id: 4,
-    title: "Project Four",
-    description: "This is a description for Project Four.",
-    imageUrl: "/Contact.png",
+    title: "Web3 Market Place",
+    description: "A web3 market place with wallet integration for buying crypto/ NFTs.",
+    imageUrl: "/project/coming.png",
     projectUrl: "#"
   },
  
