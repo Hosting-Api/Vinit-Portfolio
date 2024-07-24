@@ -22,7 +22,7 @@ const Hero = () => {
             </p>
 
             <Link
-              href="#experience"
+              href="https://drive.google.com/file/d/1kIUKcaPp6sTu-tj8T4QtoKNWhmTfBzUr/view?usp=sharing"
               className="inline-flex items-center justify-center px-5 py-3 text-base bg-blue-600 hover:bg-blue-800   font-xl  sm:mb-0 font-medium text-center text-default-text  rounded-lg focus:ring-4 focus:ring-gray-100 mx-2"
               >
               View Resume
